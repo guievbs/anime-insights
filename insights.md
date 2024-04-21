@@ -12,6 +12,4 @@
 
 7. **Análise de fandom**: Explore o engajamento dos fãs em torno de diferentes animes, observando as comunidades online (['Favorites', 'Popularity']). Isso pode ajudar a entender a força e a dedicação dos fandoms de determinadas séries.
 
-8. **Análise de rank online**: Explore os números de Rank. Isso pode ajudar a identificar quais séries estão gerando mais interesse e engajamento entre os espectadores online.
-
-9. **Total de episódios**: Avalie a quantidade de episódios de uma série. Isso pode ajudar a entender o quão envolvente cada episódio é para os espectadores e se há variações significativas entre os episódios.
+8. **Total de episódios**: Avalie a quantidade de episódios de uma série. Isso pode ajudar a entender o quão envolvente cada episódio é para os espectadores e se há variações significativas entre os episódios.
