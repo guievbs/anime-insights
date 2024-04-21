@@ -1,5 +1,3 @@
-Claro, aqui está a lista formatada em markdown:
-
 1. **Popularidade por gênero**: Analise quais gêneros de anime são mais populares entre os espectadores. Isso pode ajudar a entender as preferências do público-alvo e orientar decisões de produção futuras.
 
 2. **Origens e adaptações**: Analise quantos animes são adaptações de mangás, light novels, jogos ou outras fontes. Isso pode oferecer insights sobre as preferências dos espectadores em relação a diferentes tipos de mídia.
