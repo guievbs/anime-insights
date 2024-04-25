@@ -6,43 +6,37 @@ Perguntas completas: [insights](insights.md)
 
 ## Popularidade por Gênero
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem dos generos](https://github.com/guievbs/anime-insights/blob/main/images/image1.png)
 
 
 ## Origens e Adaptações
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem das origens](https://github.com/guievbs/anime-insights/blob/main/images/image6.png)
 
 
-## Classificações e Avaliações
+## Classificações de Faixa etária 
 
-![Imagem de um anime](imagens/anime.png)
-
-
-
-## Exploração de Subgêneros
-
-![Imagem de um anime](imagens/anime.png)
+![Imagem das classificações](https://github.com/guievbs/anime-insights/blob/main/images/image7.png)
 
 
 ## Análise de Estúdios de Animação
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem dos estúdios](https://github.com/guievbs/anime-insights/blob/main/images/image5.png)
 
 
 ## Comparação de Formatos
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem dos tipos de formato](https://github.com/guievbs/anime-insights/blob/main/images/image3.png)
 
 
-## Análise de Fandom
+## Análise das notas
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem dos gráficos de notas](https://github.com/guievbs/anime-insights/blob/main/images/image2.png)
 
 
-## Total de Episódios
+## Tipo de Duração dos animes
 
-![Imagem de um anime](imagens/anime.png)
+![Imagem de um anime](https://github.com/guievbs/anime-insights/blob/main/images/image4.png)
 
 
 ---
