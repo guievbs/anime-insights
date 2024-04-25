@@ -43,6 +43,11 @@ Não é surpresa que o mangá seja o material original mais adaptado, já que é
 
 ![Imagem dos estúdios](https://github.com/guievbs/anime-insights/blob/main/images/image5.png)
 
+#### Apenas 21 estúdios têm mais de 100 obras produzidas
+
+- **Toei Animation**: Destacando-se como um dos maiores estúdios de animação, a Toei Animation é reconhecida por seu vasto repertório de animes icônicos. Com uma biblioteca impressionante que abrange décadas, a Toei é responsável por séries lendárias como "One Piece", "Dragon Ball" e "Yu-Gi-Oh!", entre muitas outras obras de renome que cativaram audiências ao redor do mundo.
+
+- **Sunrise**: Como a segunda maior produtora de animes, a Sunrise tem sido uma força influente na indústria por anos. Seu legado é marcado por uma variedade de séries notáveis, incluindo "Gintama", "Code Geass" e "Cowboy Bebop", cada uma deixando sua marca distintiva na cultura pop e sendo reverenciada por fãs e críticos alike.
 
 ## Comparação de Formatos
 
