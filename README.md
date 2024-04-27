@@ -77,10 +77,6 @@ As pontuações apresentam uma **média aproximada de 7**, indicando uma avalia�
 
 ---
 
-## Autor
-
-Este projeto foi desenvolvido por [guivbs](https://github.com/guievbs/).
-
 ## Tecnologias Utilizadas
 
 As análises foram realizadas utilizando as seguintes tecnologias:
@@ -90,3 +86,16 @@ As análises foram realizadas utilizando as seguintes tecnologias:
 - NumPy
 - pandas
 
+## Contribuições
+
+Contribuições são sempre bem-vindas! Veja como você pode contribuir:
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch com suas modificações: `git checkout -b minha-nova-feature`.
+3. Faça commit das suas alterações: `git commit -am 'Adiciona uma nova feature'`.
+4. Push para a branch: `git push origin minha-nova-feature`.
+5. Envie um pull request.
+
+## Autor
+
+Este projeto foi desenvolvido por [Guilherme Sebastião](https://github.com/guievbs/)
